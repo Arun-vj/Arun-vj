@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/550x/95/fd/47/95fd47188d3471e804e52a80b139e623.jpg)]
+[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">A passionate Software developer from India</h3>
