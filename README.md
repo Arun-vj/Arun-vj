@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-<h3 align="center">Junior python developer with expertise in MySQL,HTML and CSS and version control</h3>
+<h3 align="center">Junior Python Developer Proficient in MySQL,HTML,CSS,and Version Control</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-vj&label=Profile%20views&color=0e75b6&style=flat" alt="arun-vj" /> </p>
 
