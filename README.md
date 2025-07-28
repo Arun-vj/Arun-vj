@@ -1,15 +1,15 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-<h3 align="center">Junior Python Developer Proficient in MySQL,HTML,CSS,and Version Control</h3>
+<h3 align="center">Junior Pentester skilled in Nmap, Metasploit, Burp Suite, Wireshark & Git</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-vj&label=Profile%20views&color=0e75b6&style=flat" alt="arun-vj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arunvj1317" target="blank"><img src="https://img.shields.io/twitter/follow/arunvj1317?logo=twitter&style=for-the-badge" alt="arunvj1317" /></a> </p>
 
-- 🔭 I’m currently working on **Connecting Mysql Database with python**
+- 🔭 I’m currently studing on **cyber security**
 
-- 🌱 I’m currently learning **python,MySQL,Linux**
+- 🌱 I’m currently learning **pentesting tools like hashcat, john the ripper and wireshark, Nmap**
 
 - 📫 How to reach me **arunvj1317@gmail.com**
 
